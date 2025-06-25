@@ -5,6 +5,12 @@
 
 ![HR Analytics](https://github.com/datawithbiswajeet/HR_Attrition_Tableau/blob/main/HR%20Analytics.png)
 
+🎥 **Project Walkthrough Video**  
+Watch a quick demo of the dashboard in action:  
+➡️ [Click to View Video](https://github.com/datawithbiswajeet/HR_Attrition_Tableau/blob/main/hr%20attrition%20tableau.mp4)
+
+---
+
 ## 📌 Project Overview
 
 This Tableau project focuses on analyzing **employee attrition trends** across key HR dimensions such as department, gender, age, education, and job satisfaction. It provides a visual, interactive dashboard to help stakeholders understand employee behavior and areas of concern.
@@ -99,14 +105,13 @@ Improving job satisfaction may reduce attrition among mid- to high-level profess
 ---
 
 # 🔗 Connect with Me
-    Let’s connect and collaborate!
+Let’s connect and collaborate!
 
 ### 💼 LinkedIn: [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/datawithbiswajeet) <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=datawithbiswajeet" target="_blank">Follow on LinkedIn</a>
 
 ### 🙌 Stay Connected [![Follow on GitHub](https://img.shields.io/github/followers/datawithbiswajeet?label=Follow%20Me&style=social)](https://github.com/datawithbiswajeet)
 
 ### 📧 Email: [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail)](mailto:datawithbiswajeet@gmail.com)
-
 
 ---
 
